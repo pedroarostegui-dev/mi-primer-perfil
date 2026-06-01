@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+   background-color: lightgray;
+   font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+   color: rgb(49, 49, 214);
+   text-align: center;
+}
+#contenedor {
+background-color: white;
+width: 60%;
+margin: 40px auto;
+padding: 30px;
+border-radius: 10px;
+box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+
+}
+img {
+width: 150px;
+border-radius: 50%;
+display: block;
+margin: 0 auto;
+margin-bottom: 20px;
+
+}
+.boton-contacto {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: rgb(49, 49, 214);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+.boton-contacto:hover {
+    background-color: #000000;
+    transform: scale(1.05);
+}
+
