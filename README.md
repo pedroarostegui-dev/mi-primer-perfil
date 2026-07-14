@@ -11,3 +11,5 @@ Este proyecto refleja mis primeros pasos en el mundo del desarrollo. En esta eta
 * Lógica de programación básica.
 * Curiosidad insaciable por la tecnología.
 * Ganas constantes de aprender y mejorar mi stack.
+---
+*Puedes ver más de mis proyectos actualizados en mi [perfil principal de GitHub](https://github.com/pedroarostegui-dev).*
