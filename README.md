@@ -1,6 +1,6 @@
 # 🚀 Mi Primera Web AEW - Pedro Arostegui
 
-¡Hola! Este repositorio contiene el código fuente de mi primer perfil web, un proyecto introductorio desarrollado durante mi primer ciclo académico para aprender sobre entornos web y desarrollo de código.
+¡Hola! Este repositorio contiene el código fuente de mi primer perfil web, un proyecto introductorio desarrollado durante mi primer ciclo académico para aprender y ir practicando sobre entornos web y desarrollo de código.
 
 ## 🛠️ Tecnologías Utilizadas
 * **HTML5:** Estructura base del contenedor, textos y enlaces.
